@@ -1,6 +1,6 @@
 ## Welcome to AnViKo GitHub Pages
 
-Simple text with [external link](https://github.com/AnViKo-P/lesson-01/) from the content in our Markdown files.
+Simple text from the content in Markdown files.
 
 
 ### Markdown
